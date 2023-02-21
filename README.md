@@ -49,3 +49,6 @@
 
 **💡 "View Generated Shader"를 클릭하면 제작한 Shader Graph를 코드로 확인할 수 있다.**
 
+## 제작
+> Shader를 사용하여 HeatMapShader를 제작하였다.   
+> Shader Graph를 사용하여 움직이는 portal과 fire 효과를 제작하였다.
